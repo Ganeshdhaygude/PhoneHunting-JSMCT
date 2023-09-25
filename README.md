@@ -19,7 +19,7 @@ Clone or download the project code from the repository.
 
 Open the index.html file in your web browser.
 
-In the search field, enter a search query (e.g., "13") and press Enter or click the "Search" button.
+In the search field, enter a search query (e.g., "10") and press Enter or click the "Search" button.
 
 The web app will fetch phone data matching your search query and display the results on the page.
 
